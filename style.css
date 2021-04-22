@@ -21,7 +21,7 @@ body {
 .slider {
     height: 800px;
     width: 100%;
-    background-image: url(./img/slider-img.jpg);
+    background-image: url('./img/slider-img.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -287,7 +287,7 @@ body {
 .slider_hot {
     width: 100%;
     height: 800px;
-    background-image: url(./img/slider.jpg);
+    background-image: url('./img/slider.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -400,7 +400,7 @@ body {
 .exclusive {
     height: 100%;
     width: 50%;
-    background-image: url(./img/promo-img1.jpg);
+    background-image: url('./img/promo-img1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -511,7 +511,7 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
     min-height: 384px;
-    background-image: url(./img/footer-back.jpg);
+    background-image: url('./img/footer-back.jpg');
     background-color: #f7f7f7;
     background-size: cover;
     padding-top: 60px;
@@ -662,7 +662,7 @@ body {
 .exclusive_2 {
     height: 100%;
     width: 50%;
-    background-image: url(./img/promo-img.jpg);
+    background-image: url('./img/promo-img.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -670,7 +670,7 @@ body {
 .exclusive_3 {
     width: 556px;
     height: 556px;
-    background-image: url(./img/product-1-lg.jpg);
+    background-image: url('./img/product-1-lg.jpg');
     background-repeat: no-repeat;
 }
 
